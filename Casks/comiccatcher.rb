@@ -1,6 +1,6 @@
 cask "comiccatcher" do
   version "0.7.3"
-  sha256 "95268b271e2ac9c59a6469123ed3731204ec4600c4917f23eee497e5df798848"
+  sha256 "10ab97e9178ede722ded0302a1c24316f89c32456b76592c2324097b539013ef"
 
   url "https://github.com/comiccatcher/comiccatcher/releases/download/v#{version}/ComicCatcher-macOS.dmg"
   name "ComicCatcher"
